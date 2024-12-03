@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "TransactionService": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7062",
+      "launchBrowser": false
+    }
+  }
+}
